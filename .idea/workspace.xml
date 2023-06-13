@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd08308-9ea7-4b96-b719-9a6491ebfcb1" name="Changes" comment="" />
+    <list default="true" id="5dd08308-9ea7-4b96-b719-9a6491ebfcb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModelagemDeClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bola/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bola/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaCorrente/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaCorrente/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pessoa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quadrado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quadrado/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangulo/Triangulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +51,82 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.triangulo.Main">
+    <configuration name="carro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="carro.Main" />
+      <module name="ModelagemDeClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contaCorrente.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contaCorrente.Main" />
+      <module name="ModelagemDeClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pessoa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pessoa.Main" />
+      <module name="ModelagemDeClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pessoa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrado.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quadrado.Main" />
+      <module name="ModelagemDeClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quadrado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangulo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="triangulo.Main" />
+      <module name="ModelagemDeClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangulo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.triangulo.Main" />
+        <item itemvalue="Application.quadrado.Main" />
+        <item itemvalue="Application.carro.Main" />
+        <item itemvalue="Application.contaCorrente.Main" />
+        <item itemvalue="Application.pessoa.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
